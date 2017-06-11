@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+myenv1
+db.sqlite3
+.DS_Store
+python_intro.py
